@@ -41,8 +41,7 @@ select
     (total_elapsed_time / 1000)::float as query_time_sec
 from snowflake.account_usage.query_history
 where
-    start_time > '2023-12-14' -- Date query tag was first introduced
-    and try_parse_json(query_tag)['project_name']::string = 'sis_analytics_with_query_tags'
+    try_parse_json(query_tag)['project_name']::string = 'sis_analytics_with_query_tags'
 """
 
 st.title("Streamlit in Snowflake Analytics")
