@@ -1,7 +1,6 @@
-# Welcome to streamlit
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sis-analytics-from-query-history.streamlit.app)
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+# SiS Analytics from Query History
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+This is a sample app to illustrate what insights you could get after setting up query tags in your Streamlit in Snowflake apps. Read more in the [blog post (WIP)](https://docs.google.com/document/d/1w_368SnViZyJ-s5OE74gHtzwyu1OReibgukfDEm88BI/edit) 🪼
