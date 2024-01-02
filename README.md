@@ -3,4 +3,4 @@
 
 # SiS Analytics from Query History
 
-This is a sample app to illustrate what insights you could get after setting up query tags in your Streamlit in Snowflake apps. Read more in the [blog post (WIP)](https://docs.google.com/document/d/1w_368SnViZyJ-s5OE74gHtzwyu1OReibgukfDEm88BI/edit) 🪼
+This is a sample app to illustrate what insights you could get after setting up query tags in your Streamlit in Snowflake apps. Read more in the [blog post](https://medium.com/snowflake/streamlit-in-snowflake-analytics-made-easy-using-query-tags-bcf728c86802) 🪼
