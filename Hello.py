@@ -46,11 +46,11 @@ where
 
 st.title("Streamlit in Snowflake Analytics")
 
-blog_post_url = "https://docs.google.com/document/d/1w_368SnViZyJ-s5OE74gHtzwyu1OReibgukfDEm88BI/edit"  # TODO: replace with actual link
+blog_post_url = "https://medium.com/snowflake/streamlit-in-snowflake-analytics-made-easy-using-query-tags-bcf728c86802"
 
 f""" This is a sample app to illustrate what insights you could get after
  setting up query tags in your Streamlit in Snowflake apps. Read more in the
- [blog post (WIP)]({blog_post_url}) 🪼"""
+ [Medium blog post]({blog_post_url}) 🪼"""
 
 data = get_query_history()
 
